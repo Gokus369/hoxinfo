@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "cSpell.words": [
         "aiml",
@@ -11,4 +12,19 @@
         "uiux",
         "Wireshark"
     ]
+=======
+{
+    "cSpell.words": [
+        "aiml",
+        "bkgndimg",
+        "contactus",
+        "datascience",
+        "digitalmarketing",
+        "FBBCZ",
+        "infotech",
+        "Metasploit",
+        "uiux",
+        "Wireshark"
+    ]
+>>>>>>> 6b65f99deab406e7eab96198fb1fdd3e84038e67
 }
