@@ -18,7 +18,7 @@ class HomeSection extends StatelessWidget {
           color: const Color.fromARGB(255, 167, 166, 166),
           child: Center(
             child: Text(
-              'We are an IT institution and development company.',
+              'We are an IT Institution and Software Development Company.',
               style: TextStyle(
                 fontSize: fontSize,
                 fontWeight: FontWeight.bold,
